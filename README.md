@@ -52,4 +52,4 @@ movie-explorer/
 
 ## Author
 
-Your Name
+Victor Gichobi
